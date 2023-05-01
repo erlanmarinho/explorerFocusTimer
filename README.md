@@ -42,7 +42,7 @@ nesse projeto estudamos:
 - Função recursiva 
 
 
-- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerJogoDaAdvinhacao/)
+- [Acesse o projeto finalizado, online](https://erlanmarinho.github.io/explorerFocusTimer/)
 
 
 
